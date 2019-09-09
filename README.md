@@ -21,3 +21,6 @@
 - Follow other users 
 - Browse videos
 - Upgrade your membership using Stripe API
+- User profile
+- Ability to search videos
+- Notification/Alerts
