@@ -1,4 +1,7 @@
-# Starter Application
+# YelpCamp
+The ultimate online community for martial artists. 
+The ability to share and upload videos facilitates the process of learning.
+Not being confined to the limits of your gym adds diversity to your arsenal. 
 
 ## Prerequisites
 
