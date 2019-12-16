@@ -74,7 +74,7 @@ GEM
     do_sqlite3 (0.10.17-x86-mingw32)
       data_objects (= 0.10.17)
     dry-inflector (0.1.2)
-    excon (0.64.0)
+    excon (0.71.0)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
     fastercsv (1.5.5)
@@ -315,7 +315,6 @@ GEM
       iso8601 (~> 0.9.1)
       net_http_timeout_errors (~> 0.3.0)
       oga (~> 2.7)
-    wdm (0.1.1)
     xml-simple (1.1.5)
     xmlrpc (0.3.0)
 
@@ -335,7 +334,6 @@ DEPENDENCIES
   sqlite3-ruby
   stripe
   video_info
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.0.1
